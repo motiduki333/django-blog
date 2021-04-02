@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'il6_c@xuyuu=smhw++uqu#b9d)vhsu6#55nf+t=ltcf$(-#mt3' #追加
+
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
@@ -158,7 +158,7 @@ ACCOUNT_EMAIL_VERIFICATION = 'none'
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
-SECRET_KEY = 'il6_c@xuyuu=smhw++uqu#b9d)vhsu6#55nf+t=ltcf$(-#mt3' #追加
+
 
 
 try:
