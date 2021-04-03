@@ -1,0 +1,160 @@
+__pycache__
+db.sqlite3
+.DS_Store
+local_settings.py
+### Django ###
+*。ログ
+*。ポット
+* .pyc
+__pycache __ /
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+メディア
+
+＃ビルドプロセスにcollectstaticの実行が含まれている場合は、staticfiles /を含める必要がないか、含めたくない可能性があります。
+＃Gitリポジトリ内。それに応じて、次の行を更新してコメントを解除します。
+＃<django-project-name> / staticfiles /
+
+### Django.Pythonスタック###
+＃バイトコンパイル/最適化/ DLLファイル
+* .py [cod]
+* $ py.class
+
+＃C拡張機能
+*。そう
+
+＃配布/パッケージング
+.Python
+ビルド/
+開発卵/
+dist /
+ダウンロード/
+卵/
+。卵/
+部品/
+sdist /
+var /
+ホイール/
+pip-wheel-metadata /
+share / python-wheels /
+* .egg-info /
+.installed.cfg
+*。卵
+マニフェスト
+
+＃PyInstaller
+＃通常、これらのファイルはテンプレートからPythonスクリプトによって記述されます
+＃PyInstallerがexeをビルドする前に、日付/その他の情報をexeに挿入します。
+* .manifest
+* .spec
+
+＃インストーラーログ
+pip-log.txt
+pip-delete-this-directory.txt
+
+＃ユニットテスト/カバレッジレポート
+htmlcov /
+.tox /
+.nox /
+。カバレッジ
+。カバレッジ。*
+。キャッシュ
+nosetests.xml
+Coverage.xml
+*。カバー
+* .py、cover
+。仮説/
+.pytest_cache /
+pytestdebug.log
+
+＃翻訳
+* .mo
+
+＃Djangoのもの：
+
+＃フラスコのもの：
+インスタンス/
+.webassets-cache
+
+＃Scrapyのもの：
+.scrapy
+
+＃Sphinxドキュメント
+docs / _build /
+doc / _build /
+
+＃PyBuilder
+目標/
+
+＃Jupyter Notebook
+.ipynb_checkpoints
+
+＃IPython
+profile_default /
+ipython_config.py
+
+＃pyenv
+.python-version
+
+＃pipenv
+＃pypa / pipenv＃598によると、バージョン管理にPipfile.lockを含めることをお勧めします。
+＃ただし、コラボレーションの場合、プラットフォーム固有の依存関係または依存関係がある場合
+＃クロスプラットフォームのサポートがないため、pipenvは機能しない依存関係をインストールするか、機能しない可能性があります
+＃必要なすべての依存関係をインストールします。
+＃Pipfile.lock
+
+＃詩
+＃poetry.lock
+
+＃PEP 582; 例：github.com/David-OConnor/pyflowで使用
+__pypackages__ /
+
+＃セロリのもの
+celerybeat-スケジュール
+celerybeat.pid
+
+＃SageMathで解析されたファイル
+* .sage.py
+
+＃環境
+＃.env
+.env /
+.venv /
+env /
+venv /
+ENV /
+env.bak /
+venv.bak /
+pythonenv *
+
+＃Spyderプロジェクトの設定
+.spyderproject
+.spyproject
+
+＃ローププロジェクトの設定
+.ropeproject
+
+＃mkdocsドキュメント
+/地点
+
+＃mypy
+.mypy_cache /
+.dmypy.json
+dmypy.json
+
+＃パイアタイプチェッカー
+.pyre /
+
+＃pytype静的型アナライザー
+.pytype /
+
+＃オペレーティングシステム関連のファイル
+* .DS_Store #file properties cache / storage on macOS
+Windows上のThumbs.db＃thumbnailキャッシュ
+
+＃プロファイリングデータ
+.prof
+
+
+＃https：//www.toptal.com/developers/gitignore/api/djangoの終わり
