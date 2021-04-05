@@ -2,6 +2,8 @@ __pycache__
 db.sqlite3
 .DS_Store
 local_settings.py
+.vscode
+media
 ### Django ###
 *。ログ
 *。ポット
@@ -10,7 +12,7 @@ __pycache __ /
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
-メディア
+.DS_Store
 
 ＃ビルドプロセスにcollectstaticの実行が含まれている場合は、staticfiles /を含める必要がないか、含めたくない可能性があります。
 ＃Gitリポジトリ内。それに応じて、次の行を更新してコメントを解除します。
